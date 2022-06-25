@@ -100,6 +100,10 @@ a:hover{
   right: 600px;
   top: 50px;
 }
+.profile-img{
+  border-radius: 100%;
+  width: 280px;
+}
 .btn {
    background: #66BFBF;
    background-image: -webkit-linear-gradient(top, #66BFBF, #11999E);
